@@ -1,4 +1,4 @@
-# DDSMUtility_Modifed
+# DDSMUtility (Modifed)
 A modified file in DDSMUtility (https://github.com/trane293/DDSMUtility)
 
 I would like to appreciate the extraction codes for the DDSM database in (https://github.com/trane293/DDSMUtility).
