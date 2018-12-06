@@ -3,7 +3,7 @@ A modified file in DDSMUtility (https://github.com/trane293/DDSMUtility) is incl
 
 I would like to appreciate the extraction codes for the DDSM database in (https://github.com/trane293/DDSMUtility).
 
-These codes was properly working in MATLAB 2015.
+These codes were properly working in MATLAB 2015.
 
 I modified one matlab file 'openDDSMLJPEGAndConvertToPNG.m' to make it run in MATLAB 2018.
 
